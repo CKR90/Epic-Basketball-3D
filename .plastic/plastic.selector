@@ -1,0 +1,4 @@
+repository "BasketballRace@aydumanalper@cloud"
+  path "/"
+    br "/main"
+    co "/main"
